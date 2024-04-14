@@ -6,6 +6,9 @@
 ```
 git clone https://github.com/verma-kunal/AWS-Session.git
 ```
+2. go to stripe website, create publishable_key and secret_key, paste in the below document
+
+   
 2. Setup the following environment variables - `(.env)` file
 ```
 DOMAIN= ""
